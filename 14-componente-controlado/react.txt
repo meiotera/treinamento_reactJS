@@ -1,0 +1,8 @@
+React =>
+Biblioteca JS para criação de interfaces de usuário.
+Permite que os desenvolvedores criem compoenetes reutillizaveis.
+Principal caracteristica = é sua abordagem declativa, na qual nós descrevemos como a interface deve ser reutilizada com base no estado atual dos dados.
+o React é frequentemente usado em conjunto com outras bibliotecas e ferramentas, como o React Router para gerenciamento de rotas e o Redux para gerenciamento de estado, para criar aplicativos web mais complexos e escaláveis
+
+
+JSX => JSX é uma extensão de sintaxe no React que permite escrever código que se parece com HTML, mas que é traduzido em JavaScript para criar elementos de interface do usuário e componentes personalizados de forma mais fácil e declarativa.
